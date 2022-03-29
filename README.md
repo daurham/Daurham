@@ -5,7 +5,7 @@
 👋 Hey, I'm Jake (Jacob) Ernest Daurham, a software engineer based in Phoenix, Az. In short, I aim to solve problems.
 
 ## Contact Info
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daurham) [![Instagram](https://img.shields.io/badge/Captain_Daurham-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/captain_daurham/) [![Twitter](https://img.shields.io/badge/daurham-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/daurham) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daurham) [![Instagram](https://img.shields.io/badge/Captain_Daurham-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/captain_daurham/) [![Twitter](https://img.shields.io/badge/daurham-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/daurham) [![YouTube](https://img.shields.io/badge/daurham-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/daurham) ![Gmail](https://img.shields.io/badge/Daurham95-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## Current Projects
 - [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server)
