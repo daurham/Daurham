@@ -10,6 +10,9 @@
 ## Current Projects
 - [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
 
+## Portfolio Projects
+- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
+
 ---
 ## TECHNICAL SKILLS
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
