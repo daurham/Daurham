@@ -10,7 +10,7 @@
 ## Portfolio Projects
 - [Front-End Work](https://github.com/FEC-Team-Rogue/Project-Revamp) | [Back-End Work](https://github.com/Wario-SDC/SDC-Jake-Ratings-Reviews) | [Full-Stack Work](https://github.com/blueocean-pikachus/1000BlankWhiteCards) 
 
-## Current Projects (Unfinished)
+## Projects In Progress
 - [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
 
 ---
