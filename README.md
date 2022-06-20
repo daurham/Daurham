@@ -17,8 +17,8 @@
 ## TECHNICAL SKILLS
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development | onoff
-- Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
-- Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman
+- Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX 
+- Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman 
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
