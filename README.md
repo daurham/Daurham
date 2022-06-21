@@ -11,7 +11,7 @@
 - [Project Revamp](https://github.com/FEC-Team-Rogue/Project-Revamp) (Front End) | [Atelier Systems Design](https://github.com/Wario-SDC/SDC-Jake-Ratings-Reviews) (Back End) | [Terminal Timer](https://github.com/daurham/Timer) (Back End) | [1000 Blank White Cards](https://github.com/blueocean-pikachus/1000BlankWhiteCards) (Full Stack) 
 
 ## Projects In Progress
-- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
+- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Terminal Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
 
 ---
 ## TECHNICAL SKILLS
