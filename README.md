@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jake (Jacob) Ernest Daurham
+# 👋🌍 Hey, I'm Jake (Jacob) Ernest Daurham
 
 <div align="center"> 
 
