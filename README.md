@@ -1,4 +1,4 @@
-# <div align="center"> <p>👋🌍</p> <p> Hey, I'm Jake (Jacob) Ernest Daurham </p></div>
+# <div align="center"> <p></p>⚓<p> Hey, I'm Jake (Jacob) Ernest Daurham </p></div>
 
 <div align="center"> 
 
