@@ -1,4 +1,4 @@
-# 👋🌍 Hey, I'm Jake (Jacob) Ernest Daurham
+# <div align="center"> <p>👋🌍</p> <p> Hey, I'm Jake (Jacob) Ernest Daurham </p></div>
 
 <div align="center"> 
 
@@ -7,11 +7,13 @@
 
 
 
-###  I'm a software engineer based in Phoenix, Az. <br /> In short, <ins>I aim to solve problems.</ins> 
 
-<br />
+
+
 
 [![Daurham's GitHub stats](https://github-readme-stats.vercel.app/api?username=daurham&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+###  I'm a software engineer based in Phoenix, Az. <br /> In short, <ins>I aim to solve problems.</ins> 
 
 </div>
 
