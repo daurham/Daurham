@@ -1,15 +1,17 @@
-# Jake Daurham
+# 👋 Hey, I'm Jake (Jacob) Ernest Daurham
 
 <div align="center"> 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 
 
-👋 Hey, I'm Jake (Jacob) Ernest Daurham, a software engineer based in Phoenix, Az. <br/> In short, I aim to solve problems.
 
+
+###  I'm a software engineer based in Phoenix, Az. <br /> In short, <ins>I aim to solve problems.</ins> 
+
+<br />
 
 [![Daurham's GitHub stats](https://github-readme-stats.vercel.app/api?username=daurham&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
@@ -34,16 +36,17 @@
 - [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) 
 
 
----
-## TECHNICAL SKILLS
+## Technical Skills
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development | onoff
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX 
 - Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman 
 
+
+
 <div align="center">
 
-
+---
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
