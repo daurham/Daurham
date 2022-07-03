@@ -14,7 +14,9 @@
 - [1000 Blank White Cards](https://github.com/daurham/1000BlankWhiteCards) (Full Stack) 
 
 ## Projects In Progress
-- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) | [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) | [Terminal Timer](https://github.com/daurham/Timer) | [Leetcode Tracker](https://github.com/daurham/Leetcode-Tracker)
+- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client)
+- [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) 
+
 
 ---
 ## TECHNICAL SKILLS
