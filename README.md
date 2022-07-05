@@ -39,7 +39,7 @@
 
 
 ## Technical Skills
-- Front End: JavaScript | React | Redux | JQuery | HTML5 | CSS3 | Styled-Components | MUI | Bootstrap | 
+- Front End: JavaScript | React | Redux | JQuery | HTML5 | CSS3 | Styled-Components | MUI | Bootstrap
 - Back End: Node.js | Express | Socket.io | Axios | PostgreSQL | MySQL | MongoDB | RESTful API Development | onoff
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | Cypress | AWS: EC2 | Loader.io | K6 | NGINX | Raspberry Pi | Arduino
 - Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman | Agile Methodology | Bash
