@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 
 
@@ -39,10 +39,10 @@
 - [TicTac.io](https://github.com/daurham/TicTac.io)
 
 ## Technical Skills
-- Front End: JavaScript | React | Redux | JQuery | HTML5 | CSS3 | Styled-Components | MUI | Bootstrap
-- Back End: Node.js | Express | Socket.io | Axios | PostgreSQL | MySQL | MongoDB | RESTful API Development | onoff
-- Testing/Deployment: Jest | Supertest | Mocha | Chai | Cypress | AWS: EC2 | Loader.io | K6 | NGINX | Raspberry Pi | Arduino
-- Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman | Agile Methodology | Bash
+- Front End: JavaScript, HTML5, CSS3, React, JQuery, Styled-Components, MUI, Bootstrap 
+- Back End: Node.js, Express, Axios, Socket.io, Redux, Easy Peasy, MongoDB, PostgreSQL, MySQL, RESTful API Development
+- Testing/Deployment: Jest, Supertest, Mocha, Chai, Cypress, AWS: EC2, Loader.io, k6, NGINX, PM2, Raspberry Pi, Arduino
+- Developer Tools: TypeScript, Vim, Git, Bash, Webpack, Snowpack, Nodemon, Postman, MVC Architecture, Agile Methodology
 
 
 <div align="center">
