@@ -39,10 +39,10 @@
 - [TicTac.io](https://github.com/daurham/TicTac.io)
 
 ## Technical Skills
-- Front End: JavaScript, HTML5, CSS3, React, JQuery, Styled-Components, MUI, Bootstrap 
-- Back End: Node.js, Express, Axios, Socket.io, Redux, Easy Peasy, MongoDB, PostgreSQL, MySQL, RESTful API Development
-- Testing/Deployment: Jest, Supertest, Mocha, Chai, Cypress, AWS: EC2, Loader.io, k6, NGINX, PM2, Raspberry Pi, Arduino
-- Developer Tools: TypeScript, Vim, Git, Bash, Webpack, Snowpack, Nodemon, Postman, MVC Architecture, Agile Methodology
+- **_Front End:_** JavaScript, HTML5, CSS3, React, JQuery, Styled-Components, MUI, Bootstrap 
+- **_Back End:_** Node.js, Express, Axios, Socket.io, Redux, Easy Peasy, MongoDB, PostgreSQL, MySQL, RESTful API Development
+- **_Testing/Deployment:_** Jest, Supertest, Mocha, Chai, Cypress, AWS: EC2, Loader.io, k6, NGINX, PM2, Raspberry Pi, Arduino
+- **_Developer Tools:_** TypeScript, Vim, Git, Bash, Webpack, Snowpack, Nodemon, Postman, MVC Architecture, Agile Methodology
 
 
 <div align="center">
