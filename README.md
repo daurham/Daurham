@@ -36,8 +36,6 @@
 - [1000 Blank White Cards](https://github.com/daurham/1000BlankWhiteCards) (Full Stack) 
 
 ## Projects In Progress
-- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client)
-- [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) 
 - [TicTac.io](https://github.com/daurham/TicTac.io)
 
 ## Technical Skills
