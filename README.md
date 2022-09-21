@@ -28,6 +28,8 @@
 </div>
 
 ## Portfolio Projects
+- [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) (Front End)
+- [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) (Back End)
 - [Project Revamp](https://github.com/daurham/Project-Revamp) (Front End)
 - [Atelier Systems Design](https://github.com/daurham/Atelier-Systems-Design) (Back End) 
 - [Terminal Timer](https://github.com/daurham/Timer) (Back End)
