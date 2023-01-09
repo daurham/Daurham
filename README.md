@@ -34,6 +34,7 @@
 - [Atelier Systems Design](https://github.com/daurham/Atelier-Systems-Design) (Back End) 
 - [Terminal Timer](https://github.com/daurham/Timer) (Back End)
 - [1000 Blank White Cards](https://github.com/daurham/1000BlankWhiteCards) (Full Stack) 
+- [D79 Tech-Stack Template](https://github.com/daurham/d79-CLI-tool) (NPX CLI Tool)
 
 ## Projects In Progress
 - [TicTac.io](https://github.com/daurham/TicTac.io)
