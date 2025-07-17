@@ -28,6 +28,9 @@
 </div>
 
 ## Portfolio Projects
+
+- [Calorie Tracker](https://github.com/daurham/calorie-tracker) (Full Stack)
+- [Job Prompt Helper](https://github.com/daurham/job_prompt_helper) (Front End)
 - [PiRoutine Client](https://github.com/daurham/PiRoutine-EC2-Client) (Front End)
 - [PiRoutine Server](https://github.com/daurham/PiRoutine-Pi-Server) (Back End)
 - [Project Revamp](https://github.com/daurham/Project-Revamp) (Front End)
